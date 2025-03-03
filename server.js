@@ -439,6 +439,6 @@ app.get('/api/companies', async (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(`Server running at http://206.189.199.156:${port}`);
-  console.log(`Swagger UI available at http://206.189.199.156:${port}/api-docs`);
+  console.log(`Server running at http://165.22.9.94:${port}`);
+  console.log(`Swagger UI available at http://165.22.9.94:${port}/api-docs`);
 });
